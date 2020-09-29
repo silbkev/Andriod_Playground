@@ -1,0 +1,10 @@
+<resources>
+    <string name="textView">textView</string>
+    <string name="editText">editText</string>
+    <string name="upperLowerButton">upperLowerButton</string>
+    <string name="charCount">charCount</string>
+    <string name="textUpperLower">textUpperLower</string>
+    <string name="textView2">textView2</string>
+    <string name="textView3">textView3</string>
+    <string name="countChar">countChar</string>
+</resources>
